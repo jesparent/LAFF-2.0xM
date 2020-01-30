@@ -5,4 +5,5 @@ but I do intend to follow the general outline of the course, at least regarding 
 
 ## Status
 [See GitHub Project](https://github.com/jesparent/LAFF-2.0xM/projects) for Progress
+
 Currently: Week 1 
